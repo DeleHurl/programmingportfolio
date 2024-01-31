@@ -32,6 +32,6 @@ OOP graphical game with sound and keyboard/ mouse listeners.
 ### Calculator
 OOP graphical game with sound and keyboard/ mouse listeners.
 
-![Gameplay](images/SS.png)
+![Gameplay](images/cal.png)
 
 [Source Code](src/ScreenSaver.zip)
