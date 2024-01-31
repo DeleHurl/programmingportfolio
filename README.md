@@ -13,7 +13,7 @@ OOP graphical game with sound and keyboard/ mouse listeners.
 
 ![Gameplay](images/sg1.png)
 
-[Source Code](src/SpaceGame2)
+[Source Code]([src/SpaceGame2](https://github.com/DeleHurl/programmingportfolio/tree/main/src/SpaceGame2))
 
 ### SpaceGame
 OOP graphical game with sound and keyboard/ mouse listeners.
