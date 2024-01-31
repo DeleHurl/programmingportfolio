@@ -25,6 +25,6 @@ OOP graphical game with sound and keyboard/ mouse listeners.
 ### ScreenSaver
 OOP graphical game with sound and keyboard/ mouse listeners.
 
-![Gameplay]()
+![Gameplay](images/SS.png)
 
 [Source Code](src/ScreenSaver.zip)
