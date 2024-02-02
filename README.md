@@ -2,7 +2,6 @@
 Skyline High School Computer Programming 1
 
 ## USOE Tech Certifications
-*
 
 ## Group Projects (2023 - 2024)
 
@@ -36,9 +35,9 @@ OOP graphical game with sound and keyboard/ mouse listeners.
 
 [Source Code](src/plan_a_Calculator.zip)
 
-### !!
+### Number Guessing Game
 OOP graphical game with sound and keyboard/ mouse listeners.
 
 ![Gameplay](https://github.com/DeleHurl/programmingportfolio/blob/main/images/num.png)
 
-[Source Code](numberguessing.pde)
+[Source Code](numberguessing.pde.zip)
